@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e42cb27bb7f46e4",
+        "id": "c52cb4ec90145880",
         "type": "tabs",
         "children": [
           {
-            "id": "f91c34c9f7d2298e",
+            "id": "60af73dfcbf7e723",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "编程/微信/小程序.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "abc1c26bd8df3762",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程/微信/小程序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程/微信/小程序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程/微信/小程序.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,12 +151,19 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f91c34c9f7d2298e",
+  "active": "60af73dfcbf7e723",
   "lastOpenFiles": [
     "编程/微信/小程序.md",
+    "编程/微信/images/chooseMedia.jpg",
+    "编程/微信/images/1679627626309.jpg",
+    "编程/微信/images/onBackData返回参数.jpg",
+    "编程/微信/images/1679626391286.jpg",
+    "编程/微信/images/onLoad接收参数.jpg",
+    "编程/微信/images",
     "未123命名.md",
     "新建 文本文档.txt",
     "编程/Android"
