@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c52cb4ec90145880",
+        "id": "50f0a6571c006a35",
         "type": "tabs",
         "children": [
           {
-            "id": "60af73dfcbf7e723",
+            "id": "5ee2e9f74bfc598c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/微信/小程序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfc9a72b228f89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,14 +168,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60af73dfcbf7e723",
+  "active": "adfc9a72b228f89c",
   "lastOpenFiles": [
+    "编程/微信/组件.md",
     "编程/微信/小程序.md",
+    "onBackData返回参数.jpg.md",
     "编程/微信/images/chooseMedia.jpg",
-    "编程/微信/images/1679627626309.jpg",
-    "编程/微信/images/onBackData返回参数.jpg",
-    "编程/微信/images/1679626391286.jpg",
     "编程/微信/images/onLoad接收参数.jpg",
+    "编程/微信/images/onBackData返回参数.jpg",
+    "编程/微信/images/1679627626309.jpg",
+    "编程/微信/images/1679626391286.jpg",
     "编程/微信/images",
     "未123命名.md",
     "新建 文本文档.txt",
