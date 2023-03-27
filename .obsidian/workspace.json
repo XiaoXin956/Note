@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/微信/小程序.md",
+                "file": "编程/微信/组件.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/微信/小程序.md",
+                "file": "编程/微信/组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/微信/小程序.md",
+                "file": "编程/微信/组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/微信/小程序.md"
+                "file": "编程/微信/组件.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "adfc9a72b228f89c",
   "lastOpenFiles": [
-    "编程/微信/组件.md",
     "编程/微信/小程序.md",
+    "编程/微信/组件.md",
     "onBackData返回参数.jpg.md",
     "编程/微信/images/chooseMedia.jpg",
     "编程/微信/images/onLoad接收参数.jpg",
