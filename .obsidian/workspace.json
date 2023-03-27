@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6de13f095e0d9ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Android/Compose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f1929ed4898054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Android/Kotiln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/微信/组件.md",
+                "file": "编程/Android/Kotiln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/微信/组件.md",
+                "file": "编程/Android/Kotiln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/微信/组件.md"
+                "file": "编程/Android/Kotiln.md"
               }
             }
           },
@@ -168,8 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adfc9a72b228f89c",
+  "active": "51f1929ed4898054",
   "lastOpenFiles": [
+    "编程/Android/Compose.md",
+    "编程/Android/Kotiln.md",
     "编程/微信/小程序.md",
     "编程/微信/组件.md",
     "onBackData返回参数.jpg.md",
