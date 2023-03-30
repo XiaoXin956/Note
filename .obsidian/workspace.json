@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "303f30bdcf8de048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Arduino/ESP8266.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e6e16c37afb77ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Arduino/ESP8266.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/Android/Kotiln.md",
+                "file": "编程/Arduino/ESP8266.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Android/Kotiln.md",
+                "file": "编程/Arduino/ESP8266.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/Android/Kotiln.md"
+                "file": "编程/Arduino/ESP8266.md"
               }
             }
           },
@@ -192,10 +216,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51f1929ed4898054",
+  "active": "5e6e16c37afb77ce",
   "lastOpenFiles": [
-    "编程/Android/Compose.md",
+    "编程/Arduino/通用.md",
+    "编程/Arduino/ESP8266.md",
+    "编程/Arduino/Esp8266/esp8266引脚图.webp",
+    "编程/Arduino/Esp8266",
     "编程/Android/Kotiln.md",
+    "编程/Arduino",
+    "编程/Android/Compose.md",
     "编程/微信/小程序.md",
     "编程/微信/组件.md",
     "onBackData返回参数.jpg.md",
