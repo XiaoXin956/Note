@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "编程/Arduino/通用.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ceade5771b41120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Android/Handler.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/Arduino/通用.md",
+                "file": "编程/Android/Handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Arduino/通用.md",
+                "file": "编程/Android/Handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/Arduino/通用.md"
+                "file": "编程/Android/Handler.md"
               }
             }
           },
@@ -163,10 +176,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe72063d9f164ffe",
+  "active": "8ceade5771b41120",
   "lastOpenFiles": [
-    "编程/Arduino/Esp8266/ESP8266.md",
     "编程/Arduino/通用.md",
+    "编程/Android/Handler.md",
+    "编程/Arduino/Esp8266/ESP8266.md",
     "编程/Arduino/Esp8266/esp8266引脚图.webp",
     "编程/Arduino/Esp8266",
     "编程/Android/Kotiln.md",
