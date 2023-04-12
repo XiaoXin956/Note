@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"有状态组件","id":"740ae5214d31cdb4","x":-100,"y":-220,"width":165,"height":63},
+		{"id":"e1f99af93c331ce3","x":-71,"y":-20,"width":125,"height":60,"type":"text","text":"initState"},
+		{"id":"6fa16480f1bf2616","x":-360,"y":80,"width":180,"height":50,"type":"text","text":"InherteWidget"},
+		{"id":"e3fdbc2f915cde2e","x":-121,"y":80,"width":225,"height":50,"type":"text","text":"didChangeDependencies"},
+		{"id":"930b2155186837a1","x":-66,"y":160,"width":116,"height":50,"type":"text","text":"build"},
+		{"type":"text","text":"createState","id":"2b68ab9c7a8c9fdf","x":-82,"y":-120,"width":147,"height":60},
+		{"id":"d58c24813f775a28","x":-360,"y":160,"width":180,"height":50,"type":"text","text":"setState"},
+		{"id":"d610f413cf30f144","x":140,"y":158,"width":176,"height":55,"type":"text","text":"didUpdateWidget"},
+		{"id":"67a7f952e9dd33dd","x":140,"y":15,"width":176,"height":50,"type":"text","text":"reassemble"},
+		{"id":"4c83ba10082e6f5e","x":-97,"y":260,"width":178,"height":50,"type":"text","text":"deactivate"},
+		{"id":"1af01f7afc24b4d1","x":-89,"y":360,"width":162,"height":60,"type":"text","text":"dispose"}
+	],
+	"edges":[
+		{"id":"46151f0ccc549ba5","fromNode":"6fa16480f1bf2616","fromSide":"right","toNode":"e3fdbc2f915cde2e","toSide":"left"},
+		{"id":"dc486d63fd5de70c","fromNode":"e3fdbc2f915cde2e","fromSide":"bottom","toNode":"930b2155186837a1","toSide":"top"},
+		{"id":"d0953a37c635d2ed","fromNode":"e1f99af93c331ce3","fromSide":"bottom","toNode":"e3fdbc2f915cde2e","toSide":"top"},
+		{"id":"a84562978383c231","fromNode":"2b68ab9c7a8c9fdf","fromSide":"bottom","toNode":"e1f99af93c331ce3","toSide":"top"},
+		{"id":"149013ebc1165f3d","fromNode":"d58c24813f775a28","fromSide":"right","toNode":"930b2155186837a1","toSide":"left"},
+		{"id":"ff128ced3cfe8625","fromNode":"d610f413cf30f144","fromSide":"left","toNode":"930b2155186837a1","toSide":"right"},
+		{"id":"04cde625521e1b57","fromNode":"67a7f952e9dd33dd","fromSide":"bottom","toNode":"d610f413cf30f144","toSide":"top"},
+		{"id":"fb57b69aa76636b2","fromNode":"930b2155186837a1","fromSide":"bottom","toNode":"4c83ba10082e6f5e","toSide":"top"},
+		{"id":"5edacdbb8c013fba","fromNode":"4c83ba10082e6f5e","fromSide":"bottom","toNode":"1af01f7afc24b4d1","toSide":"top"}
+	]
+}
