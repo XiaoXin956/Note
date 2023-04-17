@@ -1,16 +1,18 @@
 {
 	"nodes":[
-		{"type":"text","text":"有状态组件","id":"740ae5214d31cdb4","x":-100,"y":-220,"width":165,"height":63},
-		{"id":"e1f99af93c331ce3","x":-71,"y":-20,"width":125,"height":60,"type":"text","text":"initState"},
-		{"id":"6fa16480f1bf2616","x":-360,"y":80,"width":180,"height":50,"type":"text","text":"InherteWidget"},
-		{"id":"e3fdbc2f915cde2e","x":-121,"y":80,"width":225,"height":50,"type":"text","text":"didChangeDependencies"},
-		{"id":"930b2155186837a1","x":-66,"y":160,"width":116,"height":50,"type":"text","text":"build"},
-		{"type":"text","text":"createState","id":"2b68ab9c7a8c9fdf","x":-82,"y":-120,"width":147,"height":60},
-		{"id":"d58c24813f775a28","x":-360,"y":160,"width":180,"height":50,"type":"text","text":"setState"},
-		{"id":"d610f413cf30f144","x":140,"y":158,"width":176,"height":55,"type":"text","text":"didUpdateWidget"},
-		{"id":"67a7f952e9dd33dd","x":140,"y":15,"width":176,"height":50,"type":"text","text":"reassemble"},
-		{"id":"4c83ba10082e6f5e","x":-97,"y":260,"width":178,"height":50,"type":"text","text":"deactivate"},
-		{"id":"1af01f7afc24b4d1","x":-89,"y":360,"width":162,"height":60,"type":"text","text":"dispose"}
+		{"type":"group","id":"08e84ac4cd4b42c2","x":-156,"y":-160,"width":321,"height":320,"label":"  "},
+		{"type":"text","text":"initState\n初始化调用:\n初始化赋值，与服务端交互","id":"e1f99af93c331ce3","x":-120,"y":0,"width":260,"height":120},
+		{"type":"text","text":"有状态组件","id":"740ae5214d31cdb4","x":-78,"y":-260,"width":165,"height":63},
+		{"type":"text","text":"didChangeDependencies\n依赖的全局发生改变的时候\n(全局主题，字体等等发生改变)","id":"e3fdbc2f915cde2e","x":-156,"y":193,"width":321,"height":110},
+		{"type":"text","text":"createState\n页面创建时候","id":"2b68ab9c7a8c9fdf","x":-86,"y":-140,"width":182,"height":100},
+		{"type":"text","text":"InherteWidget","id":"6fa16480f1bf2616","x":-430,"y":222,"width":190,"height":53},
+		{"type":"text","text":"build\n构建视图，会触发多次","id":"930b2155186837a1","x":-89,"y":358,"width":188,"height":78},
+		{"type":"text","text":"deactivate\n组件移除节点调用，\n如果没有马上插入到其他位置则马上调用dispose","id":"4c83ba10082e6f5e","x":-205,"y":500,"width":420,"height":104},
+		{"type":"text","text":"dispose\n永久移除，释放资源","id":"1af01f7afc24b4d1","x":-98,"y":640,"width":205,"height":80},
+		{"type":"text","text":"setState","id":"d58c24813f775a28","x":-420,"y":372,"width":180,"height":50},
+		{"type":"text","text":"reassemble\n热重载，debug 模式才会调用","id":"67a7f952e9dd33dd","x":280,"y":160,"width":196,"height":80},
+		{"type":"text","text":"didUpdateWidget\n组件重新构建，父组件发生重载，子组件才会调用","id":"d610f413cf30f144","x":270,"y":350,"width":216,"height":94},
+		{"type":"text","text":"初始化\ninitState -> didChangeDependencise -> build\n\n页面数据更新\nreassemble -> didUpdateWidget -> build\n\n横竖切换(会执行两次)\ndidUpdateWidget -> build -> didUpdateWidget -> build\n\n切换到后台\ndidChangeAppLifecycleState ","id":"1b7196070e543150","x":-430,"y":760,"width":728,"height":280}
 	],
 	"edges":[
 		{"id":"46151f0ccc549ba5","fromNode":"6fa16480f1bf2616","fromSide":"right","toNode":"e3fdbc2f915cde2e","toSide":"left"},

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"build","id":"7c88fb7720553a43","x":-66,"y":133,"width":250,"height":60},
+		{"type":"text","text":"无状态组件\n速度快，效率高\n","id":"8a25141e0bf1f3a8","x":-180,"y":-180,"width":364,"height":218}
+	],
+	"edges":[]
+}
