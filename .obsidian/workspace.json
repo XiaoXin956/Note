@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/数据结构/时间复杂度和空间复杂度.md",
+                "file": "编程/Go/基础.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f820e6e2d2ccb4d4",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程/Go/基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程/Go/基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程/Go/基础.md"
+              }
             }
           },
           {
@@ -179,8 +171,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f820e6e2d2ccb4d4",
+  "active": "4531d4de87adcca5",
   "lastOpenFiles": [
+    "编程/数据结构/时间复杂度和空间复杂度.md",
     "编程/Go/基础.md",
     "编程/数据结构/HashMap.md",
     "编程/Arduino/Esp8266/ESP8266.md",
@@ -190,7 +183,6 @@
     "编程/Flutter/无状态组件.canvas",
     "编程/Dart/知识点.md",
     "编程/Go",
-    "编程/数据结构/时间复杂度和空间复杂度.md",
     "编程/Flutter/有状态组件生命周期.canvas",
     "编程/微信/组件.md",
     "编程/微信/小程序.md",
