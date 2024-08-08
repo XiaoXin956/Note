@@ -3,5 +3,8 @@
   "obsidian-version-history-diff",
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "calendar",
+  "editing-toolbar",
+  "obsidian-emoji-toolbar"
 ]
